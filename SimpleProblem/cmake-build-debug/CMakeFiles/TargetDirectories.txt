@@ -1,0 +1,3 @@
+C:/Users/Shurka/Desktop/C++/codeforces/SimpleProblem/cmake-build-debug/CMakeFiles/SimpleProblem.dir
+C:/Users/Shurka/Desktop/C++/codeforces/SimpleProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Shurka/Desktop/C++/codeforces/SimpleProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
