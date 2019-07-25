@@ -1,0 +1,3 @@
+C:/Users/Shurka/Desktop/C++/codeforces/WrongSubtraction/cmake-build-debug/CMakeFiles/WrongSubtraction.dir
+C:/Users/Shurka/Desktop/C++/codeforces/WrongSubtraction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Shurka/Desktop/C++/codeforces/WrongSubtraction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
