@@ -18,5 +18,7 @@ int main() {
 
     cout << out;
 
+    delete[] array;
+
     return 0;
 }
